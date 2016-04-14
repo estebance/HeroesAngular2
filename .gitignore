@@ -1,0 +1,11 @@
+# project
+typings
+node_modules
+jspm_packages
+bower_components
+app/**/*.map
+app/**/*.js
+
+
+# editor configuration
+.idea/*
