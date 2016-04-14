@@ -27,3 +27,6 @@ export class Hero {
   id: number;
   name: string;
 }
+
+// we use {{}} to generate interpolation, one way data binding
+// we use ngmodel sintax to generate two ways data binding 
